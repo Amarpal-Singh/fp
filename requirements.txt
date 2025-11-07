@@ -4,3 +4,7 @@ torch
 tqdm
 transformers
 evaluate
+numpy
+pandas
+scipy
+pyarrow
